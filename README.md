@@ -12,8 +12,8 @@ Este repositório foi criado para documentar e estruturar meu aprendizado da lí
 ## Curadoria de Fontes
 Os estudos presentes neste repositório foram baseados nos documentos carregados no NotebookLM:
 
-1. **[Mega Aulão de Tempos Verbais (Transcrição em Texto/PDF) - https://www.youtube.com/live/JxHiuCI2Xro?si=aXP8-zn13ScDvNkW]**: Um guia profundo e minucioso detalhando as regras gramaticais e estruturas dos 12 tempos verbais do inglês.
-2. **[Frases de Sobrevivência e Vocabulário (Transcrição em Texto/PDF) - https://youtu.be/8wx6MUDIT4I]**: Material de apoio com dezenas de frases comuns, saudações e perguntas indispensáveis para a comunicação.
+1. **[Aprenda Inglês em 2 Horas: Todo o Básico Que Você Precisa - https://www.youtube.com/live/JxHiuCI2Xro?si=aXP8-zn13ScDvNkW]**: Um guia profundo e minucioso detalhando as regras gramaticais e estruturas dos 12 tempos verbais do inglês.
+2. **[1000 FRASES PARA APRENDER INGLÊS - https://youtu.be/8wx6MUDIT4I]**: Material de apoio com dezenas de frases comuns, saudações e perguntas indispensáveis para a comunicação.
 3. **[Como Aprender Inglês Mais Rápido (Artigo CNA) - https://cna.com.br/blog/estudos/como-aprender-ingles-mais-rapido]**: Guia sobre metodologias práticas, que ensina desde o uso de flashcards até como conectar o estudo com interesses pessoais.
 
 ## Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
