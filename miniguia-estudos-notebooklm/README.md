@@ -27,7 +27,7 @@ Durante o estudo no NotebookLM, testei diversas formas de extrair informações 
 *   **Tentativa 3 (Refinamento de Vocabulário):** *"Crie uma lista com as 10 frases mais comuns do material 2 para usar no trabalho."*
     *   *A Resposta obtida:* A IA retornou frases perfeitas como *"How can I help you?"* e *"I will make a call"*.
 
-## Miniguia de Estudo (Entrega Final)
+## Entrega Final
 
 ### 1. Resumos Estruturados do Assunto
 *   **Os 3 Pilares Simples:** No inglês, tempos simples focam no fato. *Simple Present* (com Do/Does), *Simple Past* (com Did) e *Simple Future* (com Will). O segredo para perguntas e negativas é que, ao usar os auxiliares *Did* ou *Does*, o verbo principal nunca é conjugado, ele fica em sua forma original.
